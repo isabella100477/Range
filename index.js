@@ -19,9 +19,14 @@
  */
 function range(start, end) {
     // YOUR CODE GOES BELOW HERE // 
- 
+ if(){
+
+    var result = [];
+
+    for(let i = start; i <= end; i++){
+result.push(i)
+    } else {
     
-    
-    
+    console.log(result)
     // YOUR CODE GOES ABOVE HERE //
 }
